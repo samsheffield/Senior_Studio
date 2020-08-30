@@ -40,6 +40,12 @@ form.
 Software used to create any demos will be listed here.
 
 ## Weekly Class Notes
-Week 1:
-- [Monday: Welcome, Class Overview, Q&A](week1m.md)
-- [Wednesday: Team formation, work session, check-in, and office hours](week1w.md)
+Week 1 (08/31, 09/03):
+- [Monday: Welcome, Class Overview, Q&A (Group)](week1m.md)
+- [Wednesday: Team formation, work session, check-in, and office hours (Teams & Individuals)](week1w.md)
+Week 2 (09/07, 09/10):
+- Monday: Holiday
+- Wednesday: Discuss Game Design Document details (Group)
+Week 3 (09/14, 09/16):
+- Monday: Game Design document due. Discuss plans as a group (Group)
+- Wednesday: Work session, team check-ins, and office hours.
