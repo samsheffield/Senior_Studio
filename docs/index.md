@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Senior Studio (GMD 498.01)
 
-You can use the [editor on GitHub](https://github.com/samsheffield/Senior_Studio/edit/Fall_20/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+This is the archive for Game Design Senior Studio, taught in the Game Design program at the Maryland Institute College of Art in 2020/21 by Sam Sheffield (ssheffield@mica.edu). It is primarily intended for student use, but if what you find seems helpful to you, enjoy! Maybe drop me a line and say Hi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description
+Students will spend the semester working in teams to create a game prototype that they
+will then refine and polish during the Spring semester. The goal of this course is for students
+to demonstrate their ability to research, design, and test a game which conveys their own
+personal voice as well as an understanding of the field of game design.
 
-### Markdown
+#### This Semester...
+The focus will be on prototyping a small complete game or vertical slice of a larger game. You
+will be spending this semester working in small, self-selected teams to develop a fully playable
+prototype, which will be uploaded to itch.io and present at the end of the semester. Some
+professional development will come at the end of the semester when we begin discussing how
+to document, present, and promote your work online.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Next Semester...
+The focus will be on refining and promoting your playable prototype into a complete
+demo and professional development. For digital games, a playable demo with social media
+promotion and full presskit will be the final deliverables. For non-digital games, a fabricated
+deliverable with social media promotion and full presskit, plus print & play (or other
+appropriate online deliverable) will be the final deliverables.
 
-```markdown
-Syntax highlighted code block
+### Course Goals
+- Learn to research, design, and build refined games and playful projects
+- Learn to develop project plans and game design documents.
+- Communicate & present game designs from concept to finished form.
 
-# Header 1
-## Header 2
-### Header 3
+### Student Learning Outcomes
+- Students will understand how to build, test, and evaluate games using an iterative design
+approach.
+- Students will learn how to manage design and production in a team based environment.
+- Students will analyze games as complex interactive systems.
+- Students will gain skills in communicating and presenting ideas from concept to finished
+form.
 
-- Bulleted
-- List
+### Software Versions
+Software used to create any demos will be listed here.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samsheffield/Senior_Studio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Weekly Class Notes
+Week 1:
+- [Monday: Welcome, Class Overview, Q&A](week1m.md)
+- [Wednesday: Team formation, work session, check-in, and office hours](week1w.md)
