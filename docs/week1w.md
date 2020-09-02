@@ -1,4 +1,4 @@
-# Wednesday (09/02
+# Wednesday (09/02)
 
 ## Team Check-Ins
 Please check your email for the link to your team's meeting time with me.The purpose of our meeting will be to:
