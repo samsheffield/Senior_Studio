@@ -45,7 +45,7 @@ Software used to create any demos will be listed here.
   - [Wednesday: Team formation, work session, check-in, and office hours (No group meeting)](week1w.md)
 - Week 2 (09/07, 09/10):
   - Monday: Holiday
-  - Wednesday: Discuss Game Design Document details (Group meeting)
+  - [Wednesday: Discuss Game Design Document details (Group meeting)](week2.md)
 - Week 3 (09/14, 09/16):
-  - Monday: Game Design document due. Discuss plans as a group (Group meeting)
+  - Monday: Game Design document due. Discuss plans individually (No group meeting).
   - Wednesday: Work session, team check-ins, and office hours (No group meeting).
