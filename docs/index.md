@@ -49,3 +49,6 @@ Software used to create any demos will be listed here.
 - Week 3 (09/14, 09/16):
   - Monday: Game Design document due. Discuss plans individually (No group meeting).
   - Wednesday: Work session, team check-ins, and office hours (No group meeting).
+- Week 4 (09/21, 09/23):
+  - [Monday: Group check-ins. Begin individual team meetings](week4m.md)
+  - Wednesday: Work session, team check-ins, and office hours (No group meeting).
