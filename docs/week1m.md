@@ -1,22 +1,21 @@
 # W E L C O M E &nbsp; B A C K ! !
-So excited to welcome you all back. Today, we'll meet as a group to...
-- Say hello! (Where are you?? How have you been? What have you been doing?)
-- Discuss this class ([Syllabus](https://drive.google.com/file/d/1LgEjy1sFZE20Qjrm7LDCe98ZoLp2id3W/view?usp=sharing), Online structure, Spring vs. Fall semesters. Senior Project requirements)
-- Concerns, Questions? (This class, Senior year, ...uhh, Everything?!)
+So excited to welcome you all back. In person! Today, we'll meet as a group to...
+- Say hello! (Who are you? How have you been? What are you excited/nervous about this year?)
+- Discuss this class ([Syllabus](https://drive.google.com/file/d/1T4vFP40_t3tTD1ph8ZgItVEAfyI_gZ72/view?usp=sharing), Hybrid structure, Spring vs. Fall semesters, Expectations and responsibilities)
+- Discuss Senior Project ([overview here](https://drive.google.com/file/d/1-E2rFUEmfE_VMHEediIz1HZWRrJefbhN/view?usp=sharing))
+- Any other concerns or questions? (This class, Senior year, ...uhh, Everything?!)
+- There is no class meeting next Monday. __Our next group meeting will be Monday, September 13th @ 9AM EST (IN-PERSON)__. 
 
-Then, we'll take a break and begin meeting individually in breakout rooms (if I can figure that Zoom part out :slightly_smiling_face:) to discuss current ideas for Senior Project, determine who needs to find a teammate, address any concerns privately, catch up briefly. Also...
-- These will be no longer than 20 minutes per person.
-- I want to prioritize the meeting schedule according to how far you are away from Baltimore. More remote = earlier meeting.
-- You don't need to stay active in Zoom until our time to meet, just rejoin the class meeting about 5-10 minutes before your selected time slot. ( :bug: )
-- When we're done, you're done! ( :bug: )
-[Here is the meeting schedule](https://docs.google.com/document/d/1m9Ticgjto2_bmNmXr8spZXCqoJ6UFXF6G1iPSzRIiHE/edit?usp=sharing)
-
-( :bug: Unless you need to find a teammate. Then it is your task to chat with your classmates on Zoom, Slack, or elsewhere to see if you can find a possible fit.)
+Then, we'll take a break and talk a little about your current ideas for the semester
+- I want to get a preliminary sense of where you might be heading this semester.
+- Are you open to working with others?
 
 __For Wednesday...__
-- You need a teammate and the beginnings of a plan.
-- Sign your team up for a meeting time slot on [this shared Google Doc](https://docs.google.com/document/d/1poffjFeeMnF7h7gIbkbx2t8fVbHphs0LM2MTN9r0ntg/edit?usp=sharing) so we can check-in ( :footprints: ). Do this today or early tomorrow and please prioritize our remotest class members for earlier meeting times.
-- I will send out meeting invites by the end of my day tomorrow. Be sure to confirm YES.
-- There is no Group meeting this Wednesday. __Our next group meeting will be Wednesday, September 9th @ 9AM EST__.
+- Wednesday is a work session. 
+- Check the [class notes](week1w.md) for full details
+- This work session is not optional. You will have work due by the end of the day, which you can actually start anytime.
 
-( :footprints: At least one team member should be able to attend this meeting. This person will speak on behalf of their team and then communicate the discussion with any absent members. They must be enrolled in this class. )
+__Homework__
+- Get started on Wednesday's work.
+- Join the class Discord server ([link](https://discord.gg/vfHJeZ2t)). Set your server nickname to what you want to be called in class and then say hello in the #announcements text channel.
+- There are notes for next week's classwork in Wednesday's class notes as well.
