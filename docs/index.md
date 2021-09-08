@@ -33,3 +33,6 @@ Software used to create any demos will be listed here.
 - Week 1 (08/30, 09/01):
   - [Monday: Welcome, Class Overview, Q&A (Group meeting)](week1m.md)
   - [Wednesday: What do you want to make? (Independent work session)](week1w.md)
+- Week 2 (09/06, 09/08):
+  - [Monday: No class (A holiday!)
+  - [Wednesday: Decide on idea, experimenting(Independent work session)](week2w.md)
