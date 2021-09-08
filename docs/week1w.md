@@ -16,7 +16,7 @@ Create a Google Doc to explore your ideas and include the following for each one
 ## Due by the end of class
 - Share a link to a Google Doc in the class Discord #week-1 channel by the end of the day on Wednesday.
 
-## Due by the end of class on the 6th
+## Due by the end of class on the 8th
 - Choose one of your ideas to proceed with this semester and write a short description (2-3 sentences, maximum) of the game's basic premise on the #week-2 Discord channel (will be created next week). If you have made plans to collaborate with others, please indicate it here as well.
 
 ## Bring to class on the 13th
