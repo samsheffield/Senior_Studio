@@ -29,6 +29,8 @@ Research is going to play a big role in the development of your prototypes this 
 
 Research is not just a thing done at the beginning, or end, of development. While it is incredibly beneficial to do a lot of research before starting to really dig into your work, it's actually an ongoing process which helps us understand our work and make informed choices throughout its development.
 
+*But Why???* Game design as a [Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/)
+
 __Planning Document__
 You can find information on the document [here](https://docs.google.com/document/d/1GHyQPyIW3TnLIeSRczQYBjZjGzvOw37Se0MgQfl-kXk/edit?usp=sharing)
 
