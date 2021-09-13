@@ -20,7 +20,7 @@ __Attend these visits. Most are *specifically* for you__. Links will be provided
 __Share plans and experiments__
 
 We are going to go around the room and share...
-- Each team's initial plans (we ahve 3 different games this semester)
+- Each team's initial plans (we have 3 different games this semester)
 - The related experiment you made this week (show digital work using the projector, and non-digital work from one of the desks at the back of the room)
 
 __Senior Project research__
