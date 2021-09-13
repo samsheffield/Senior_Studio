@@ -34,5 +34,8 @@ Software used to create any demos will be listed here.
   - [Monday: Welcome, Class Overview, Q&A (Group meeting)](week1m.md)
   - [Wednesday: What do you want to make? (Independent work session)](week1w.md)
 - Week 2 (09/06, 09/08):
-  - [Monday: No class (A holiday!)
+  - Monday: No class (A holiday!)
   - [Wednesday: Decide on idea, experimenting(Independent work session)](week2w.md)
+- Week 3 (09/13, 09/15):
+  - [Monday: Share ideas & experiments. Introduce Planning Document](week3m.md)
+  - [Wednesday: Begin research & work on Planning Document (Independent work session)](week3w.md)
