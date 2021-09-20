@@ -39,3 +39,6 @@ Software used to create any demos will be listed here.
 - Week 3 (09/13, 09/15):
   - [Monday: Share ideas & experiments. Introduce Planning Document](week3m.md)
   - [Wednesday: Begin research & work on Planning Document (Independent work session)](week3w.md)
+- Week 4 (09/20, 09/22):
+  - [Monday: Heather Slania library + research visit. Introduce Proof of Concept. Review planning docs](week4m.md)
+  - [Wednesday: Work on Proof of Concept](week4w.md)
