@@ -26,8 +26,8 @@ The remainder of today will be a work session. You are welcome to work wherever 
 
 30 minute meeting blocks:
 1. Vanessa 11:30
-2. Parker & Ariana 1:00
-3. Puhan & Zining 2:00
+2. Puhan & Zining 1:00
+3. Parker & Ariana Wednesday @ 7pm (Discord)
 
 # Wednesday...
 - Once again, Wednesday is a work session. 
