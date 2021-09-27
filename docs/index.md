@@ -42,3 +42,6 @@ Software used to create any demos will be listed here.
 - Week 4 (09/20, 09/22):
   - [Monday: Heather Slania library + research visit. Introduce Proof of Concept. Review planning docs](week4m.md)
   - [Wednesday: Work on Proof of Concept](week4w.md)
+- Week 5 (09/27, 09/29):
+  - [Monday: Proof of Concept Demonstrations](week5m.md)
+  - [Wednesday: Work Session](week5w.md)
