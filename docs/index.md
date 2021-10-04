@@ -45,3 +45,6 @@ Software used to create any demos will be listed here.
 - Week 5 (09/27, 09/29):
   - [Monday: Proof of Concept Demonstrations](week5m.md)
   - [Wednesday: Work Session](week5w.md)
+- Week 6 (10/04, 10/06):
+  - [Monday: Check-ins & Work Session ](week6m.md)
+  - [Wednesday: Guest Speaker & Work Session](week6w.md)
