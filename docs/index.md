@@ -48,3 +48,6 @@ Software used to create any demos will be listed here.
 - Week 6 (10/04, 10/06):
   - [Monday: Check-ins & Work Session ](week6m.md)
   - [Wednesday: Guest Speaker & Work Session](week6w.md)
+- Week 7 (10/11, 10/13):
+  - [Monday: Check-ins & Work Session ](week7m.md)
+  - [Wednesday: Work Session](week7w.md)  
