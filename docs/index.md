@@ -51,3 +51,6 @@ Software used to create any demos will be listed here.
 - Week 7 (10/11, 10/13):
   - [Monday: Check-ins & Work Session ](week7m.md)
   - [Wednesday: Work Session](week7w.md)  
+- Week 8 (10/18, 10/20):
+  - [Monday: FALL BREAK ]
+  - [Wednesday:  Check-in & Work Session](week8w.md)  
