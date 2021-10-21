@@ -6,7 +6,7 @@
 
 
 # Prototype Milestone 1 (MONDAY)
-The goal for this next month is to see how the pieces fit together in a broader sense than with your proof of concept. Is it achieving your player experience goals? Is it fun/interesting/compelling? How can we help make it better?
+The goal for this milestone is to see how the pieces fit together in a broader sense than with your proof of concept. Is it achieving your player experience goals? Is it fun/interesting/compelling? How can we help make it better?
 
 __We will be discussing your progress as a group each week. You're responsible weekly planning and goal setting, which we will review each week together. Playtesting is welcome every week as well.__
 
