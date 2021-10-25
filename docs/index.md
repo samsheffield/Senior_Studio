@@ -54,3 +54,6 @@ Software used to create any demos will be listed here.
 - Week 8 (10/18, 10/20):
   - [Monday: FALL BREAK ]
   - [Wednesday:  Check-in & Work Session](week8w.md)  
+- Week 9 (10/25, 10/27):
+  - [Monday: Milestone 1 Playtesting ](week9m.md)
+  - [Wednesday: Work Session](week9w.md)  
