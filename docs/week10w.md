@@ -1,7 +1,13 @@
 # Wednesday (11/03)
 ## Today
 - Today is a work session. Make sure that you are meeting your production goals for Milestone 2
-- __Project research goals (will be posted Wednesday)__
+- __UPDATED: Begin second revision of design doc & research__
+
+# Game Design Docs & Research (Due on 11/15)
+- [Here is a link to a Google Doc](https://docs.google.com/document/d/1hdGCWW5B-_Vp6Y_65haw7FNPobEuwvS0CDMTzG3qURU/edit?usp=sharing) you can use as a template by choosing File > Make a Copy and saving to your own Drive.
+- Make updates and add additional research based on where you are now in development
+- You will share the link with me via email on the 15th.
+
 
 # Prototype Milestone 2 (Next Monday)
 __The next required playtest is Monday.__
