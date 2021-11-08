@@ -57,6 +57,9 @@ Software used to create any demos will be listed here.
 - Week 9 (10/25, 10/27):
   - [Monday: Milestone 1 Playtesting ](week9m.md)
   - [Wednesday: Work Session](week9w.md)  
-  - Week 10 (11/01, 11/03):
+- Week 10 (11/01, 11/03):
   - [Monday: Check-ins & Work Session ](week10m.md)
   - [Wednesday: Work Session](week10w.md)  
+- Week 11 (11/08, 11/10):
+  - [Monday: Milestone 2 Playtesting](week11m.md)
+  - [Wednesday: Guest Speaker & Work Session](week11w.md)  
