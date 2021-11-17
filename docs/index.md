@@ -63,3 +63,9 @@ Software used to create any demos will be listed here.
 - Week 11 (11/08, 11/10):
   - [Monday: Milestone 2 Playtesting](week11m.md)
   - [Wednesday: Guest Speaker & Work Session](week11w.md)  
+- Week 12 (11/15, 11/17):
+  - Monday: Work session / No class (Sam has a cold)
+  - [Wednesday: Work Session](week12w.md)  
+- Week 12 (11/22, 11/24):
+  - Monday: Milestone 3 Playtesting
+  - Wednesday: Break
