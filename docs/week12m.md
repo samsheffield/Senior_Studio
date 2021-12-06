@@ -4,7 +4,7 @@ We're back! In person! Today, we'll meet as a group to...
 
 ## Today
 
-# Prototype Milestone 2 Playtesting
+# Prototype Milestone 3 Playtesting
 A goal of this prototype is to test your full gameplay loop and see if it connects with us as players, communicating what we are supposed to do, and giving us meaningful feedback on those actions.
 
 
