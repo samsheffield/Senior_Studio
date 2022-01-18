@@ -1,7 +1,7 @@
 ## Senior Studio (GMD 498.01)
 
 ### About
-This is the class site for Game Design Senior Studio, taught in the Game Design program at the Maryland Institute College of Art in Spring 2021.
+This is the class site for Game Design Senior Studio, taught in the Game Design program at the Maryland Institute College of Art in Spring 2022.
 
 ### Course Description
 Students will spend the semester developing a small game prototype that they will then refine and polish during the Spring semester. The goal of this course is for students to demonstrate their ability to research, design, and test a game which conveys their own personal voice as well as an understanding of the field of game design. 
