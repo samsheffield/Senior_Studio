@@ -27,3 +27,11 @@ The focus will be on refining and promoting your playable prototype into a compl
   - [Welcome, Class Overview, 1-on-1 meetings](week1.md)
 - Week 2 (01/25):
   - [Work session and check-ins](week2.md)
+- Week 3 (02/01):
+  - [Work session and check-ins](week3.md)
+- Week 4 (02/08):
+  - Playtesting
+- Week 5 (02/15):
+  - Work session
+- Week 6 (02/22):
+  - [Work session and check-ins. Playtesting begins](week6.md)
