@@ -35,5 +35,9 @@ The focus will be on refining and promoting your playable prototype into a compl
   - Work session
 - Week 6 (02/22):
   - [Work session and check-ins. Playtesting begins](week6.md)
-- Week 7 (02/28):
+- Week 7 (03/01):
   - [Work session](week7.md)
+- Week 8 (03/08):
+  - Playtesting session
+- Week 9 (03/22):
+  - [Professional Development Visits](week9.md)
