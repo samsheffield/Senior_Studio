@@ -41,3 +41,5 @@ The focus will be on refining and promoting your playable prototype into a compl
   - Playtesting session
 - Week 9 (03/22):
   - [Professional Development Visits](week9.md)
+- Week 10 (03/29):
+  - [Playtesting session](week10.md)
