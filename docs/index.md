@@ -47,3 +47,5 @@ The focus will be on refining and promoting your playable prototype into a compl
   - Work session & check-ins
 - Week 12 (04/12):
   - [One-on-One meetings, Playtesting](week12.md)
+- Week 13 (04/19):
+  - [Professional Development Visit](week13.md)
