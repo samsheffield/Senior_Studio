@@ -49,3 +49,5 @@ The focus will be on refining and promoting your playable prototype into a compl
   - [One-on-One meetings, Playtesting](week12.md)
 - Week 13 (04/19):
   - [Professional Development Visit](week13.md)
+- Week 14 (04/26)
+  - [Final week of Game Dev! Portfolio Development Discussion](week14.md)
