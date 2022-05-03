@@ -51,3 +51,5 @@ The focus will be on refining and promoting your playable prototype into a compl
   - [Professional Development Visit](week13.md)
 - Week 14 (04/26)
   - [Final week of Game Dev! Portfolio Development Discussion](week14.md)
+- Week 15 (05/03)
+  - [Student Reviews](week15.md)
