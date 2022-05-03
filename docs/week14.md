@@ -12,7 +12,7 @@ Today, we'll meet as a group to...
 - Please have everything uploaded by __9 a.m. on Saturday morning__ and share the link on our class Discord to confirm.
 
 ## Reviews & presentations next Tuesday @ 10 a.m.
-- These will take place online (but please be here in-person so we can celebrate afterwards!)
+- These will take place online (but please be here in-person)
 - I will send everyone a Zoom link later this week
 
 
@@ -93,9 +93,9 @@ __May 3rd:__
 - Final presentations for guest panelists/playtesters @ 10 a.m.
 - Celebration!
 
-__May 6th:__
+__May 11th:__
 - Games and promo material are uploaded to itch.io
-- Completed presskit & short promo trailer uploaded to YouTube, Vimeo, etc. 
+- Short promo trailer uploaded to YouTube, Vimeo, etc. 
 
 __Also...__
 
