@@ -23,5 +23,5 @@ The focus will be on refining and promoting your playable prototype into a compl
 - PDF is available [here](https://docs.google.com/document/d/1BI7XjI9RXKMh7cufjvSLwLwSzmLhcsSY4yqiUn23JiU/edit?usp=sharing)
 
 ## Weekly Class Notes
-- Week 1 (01/18):
+- Week 1 (08/29):
   - [Welcome, Class Overview, 1-on-1 meetings](week1.md)
