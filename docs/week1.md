@@ -18,9 +18,9 @@ I'd like to meet briefly with each of you to discuss your preliminary plans this
 - ***Share a link with me via email.***
 
 ### Self Introduction Presentation
-Create a 5-10 minute presentation which gives us a sense of where you're coming from, where you are, and where you want to go this at this moment. Give examples. Tell us who you are and what you're interested in.
+Create a 10-15 minute presentation which gives us a sense of where you're coming from, where you are, and where you want to go this at this moment. Give examples. Tell us who you are and what you're interested in.
 
-Full description available [here]().
+Full description available [here](https://docs.google.com/document/d/19z5EBKpze7wsGGLIa6vLtQhfndfGujZ_uHhYFN76ZoE/edit?usp=sharing).
 
 #### Friday's studio work session
 
