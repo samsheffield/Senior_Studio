@@ -4,23 +4,11 @@
 This is the class site for Game Design Senior Studio, taught in the Game Design program at the Maryland Institute College of Art in Fall 2022 & Spring 2023.
 
 ### Course Description
-Students will spend the semester developing small game prototypes that they will then refine and polish during the Spring semester. The goal of this course is for students to demonstrate their ability to research, design, and test a game which conveys their own personal voice as well as an understanding of the field of game design. 
+Students will spend the semester developing a game prototype that they will then fully develop and release during the Spring semester. The goal of this course is for students to demonstrate their ability to research, design, and test games which convey their own personal voice as well as an understanding of the field of game design.
 
-#### This Semester...
-The focus will be on refining and promoting your playable prototype into a complete demo and professional development. For digital games, a playable demo with social media promotion and full presskit will be the final deliverables. For non-digital games, a fabricated deliverable with social media promotion and full presskit, plus print & play (or other appropriate format) will be due at the end of the semester.
-
-### Course Goals
-- Learn to research, design, and build refined games and other playful projects
-- Gain experience conducting research, developing project plans, and managing a multi-month game development project.
-- Critically communicate & present game designs from concept to finished form.
-
-### Student Learning Outcomes
-- Students will demonstrate an understanding of how to build, test, and evaluate games using player-centric, iterative design methodologies.
-- Students will be able to analyze and critically discuss games as complex interactive systems.
-- Students will gain skills in communicating and presenting ideas from concept to finished form.
 
 ## Syllabus
-- PDF is available [here](https://docs.google.com/document/d/1BI7XjI9RXKMh7cufjvSLwLwSzmLhcsSY4yqiUn23JiU/edit?usp=sharing)
+- PDF is available [here](https://docs.google.com/document/d/1Kbk7FH3_x0SqIGCmn7EqubIOWVn83O7voqDWuWkBntM/edit?usp=sharing)
 
 ## Weekly Class Notes
 - Week 1 (08/29):
