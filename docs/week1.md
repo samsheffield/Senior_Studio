@@ -1,40 +1,31 @@
 # W E L C O M E &nbsp; B A C K ! !
-So excited to welcome you all back. Online! Today, we'll meet as a group to...
+
+## Today
+### Discuss the class
+So excited to welcome you all back in-person!
 - Say hello! (Who are you? How have you been? What are you excited/nervous about this semester?)
-- Discuss this class ([Syllabus](https://docs.google.com/document/d/1BI7XjI9RXKMh7cufjvSLwLwSzmLhcsSY4yqiUn23JiU/edit?usp=sharing), Hybrid structure, Spring vs. Fall semesters, Expectations and responsibilities)
+- Discuss this class ([Syllabus](https://docs.google.com/document/d/1Kbk7FH3_x0SqIGCmn7EqubIOWVn83O7voqDWuWkBntM/edit?usp=sharing), Course adjustments & reasoning, Spring vs. Fall semesters, expectations and responsibilities)
 - Any other concerns or questions? (This class, Senior year, ...uhh, Everything?!)
 
-## This semester...
-These are our priorities this semester:
-- Refine, playtest, and release your Senior Project games
-- Identify and research game design career paths that line up with your skillsets and interests
-- Prepare professional materials to support post-MICA plans
+### Quick 1-on-1 check-ins with everyone
+I'd like to meet briefly with each of you to discuss your preliminary plans this semester. Let's schedule 15 minute meetings today after we discuss the syllabus.
 
-## Senior Project Completion Deadlines
-Note: This is __not__ the very last day of class.
-- April 19: Final builds produced and Google Drive link shared via class Discord. Final in-class playtest as a group
-- April 26: Presskit & 30-60 second promo trailer due. Materials for fabrication services due. Builds are uploaded to itch.io
-- May 03: Final presentations for guest panelists
+## Homework
 
+### Create your working space
+- Set up your self-hosted Google Drive folder where you will share work.
+- Google Document which will serve as your development log for  classwork
+- ***Share a link with me via email.***
 
-## Quick check-ins with everyone
-I'd like to meet briefly with each group to discuss your preliminary plans this semester. You'll refine this for homework over the weekend.
+### Self Introduction Presentation
+Create a 5-10 minute presentation which gives us a sense of where you're coming from, where you are, and where you want to go this at this moment. Give examples. Tell us who you are and what you're interested in.
 
-Let's meet here in Zoom in this order:
-- Parker
-- Vanessa
-- Zining & Puhan
+Full description available [here]().
 
+#### Friday's studio work session
 
-# Homework
+This will be the first entry in your development log:
+- Write down and organize your thoughts on the presentation (*where are you? who are you? what do you want to make?*). This will serve as an outline to what you talk about next Tuesday in class.
+- Include a link to your in-progress (or finished) presentation in your development log as documentation this week.
+- ***Remember to send me a link to the updated dev log by 5pm on Friday to confirm work.***
 
-## Join Discord Server
-- Join the class Discord server ([link](https://discord.gg/4VfHZHJZkD)). Set your server nickname to what you want to be called in class and then say hello.
-
-## Set goals for this semester
-In a Google Doc that you share with me...
-- What are your project goals for this semester?
-- What are your professional goals and what support would be most beneficial to you this semester?
-
-## Resume work
-- Restart development. Let's Go!
