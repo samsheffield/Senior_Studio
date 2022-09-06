@@ -13,3 +13,7 @@ Students will spend the semester developing a game prototype that they will then
 ## Weekly Class Notes
 - Week 1 (08/29):
   - [Welcome, Class Overview, 1-on-1 meetings](week1.md)
+- Week 2 (09/06):
+  - [Self-Introduction presentations, Discuss Prototype 1](week2.md)
+- Week 3 (09/13):
+  - Library visit, Research discussion, Prototype 1 check-ins
