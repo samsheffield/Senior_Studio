@@ -16,4 +16,6 @@ Students will spend the semester developing a game prototype that they will then
 - Week 2 (09/06):
   - [Self-Introduction presentations, Discuss Prototype 1](week2.md)
 - Week 3 (09/13):
-  - Library visit, Research discussion, Prototype 1 check-ins
+  - [Library visit, Research discussion, Prototype 1 check-ins](week3.md)
+- Week 4 (09/20):
+  - Prototype 1 playtesting
