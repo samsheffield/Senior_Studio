@@ -1,7 +1,7 @@
 # ! !W E L C O M E &nbsp; B A C K  &nbsp; B A C K! !
 
 ## Today
-### Library visit with Haather Slania
+### Library visit with Heather Slania
 Meet today at 10 in the Library Classroom to talk with Heather Slania to talk about research and tools for your Senior Studio work.
 
 
