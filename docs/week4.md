@@ -15,6 +15,8 @@ Second half: Work session.
 ### Friday's studio work session: Complete work on prototype 1
 Begin wrapping up development of your prototype. You will need to complete anything you don't finish Friday for class next week. The goal is to have a fully playable prototype for playtesting and discussing.
 
+* Update: I overlooked the invitation for student involvement for Professional Development, so there is no penalty this week for late/missing dev logs. *
+
 #### Development Log
 
 This will be the fourth entry in your development log:
