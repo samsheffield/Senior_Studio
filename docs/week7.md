@@ -26,7 +26,9 @@ Kick off Fall Break by stopping by Dolphin Gallery for the reception of our join
 **There's no expectation that you stay the entire time, but please stop by!**
 
 ### This week!
-Get some work done on your prototype. Send me an update before Fall Break. No Dev Log or Documentation this week. Have a good break!
+Get some work done on your prototype. **Send me an update before Fall Break.**
+
+**No Dev Log or Documentation this week. Have a good break!**
 
 ### Next Friday's studio work session (10/21): Work on prototype 2
 Continue development of your prototype. The goal is to have an incomplete prototype that others can playtest with your supervision.

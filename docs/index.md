@@ -23,3 +23,5 @@ Students will spend the semester developing a game prototype that they will then
   - [Prototype 1 final playtesting & discussion](week5.md)
 - Week 6 (10/04):
   - [Career Development visit](week6.md)
+- Week 7 (10/11):
+  - [Prototype 2 check-ins, Entrepeneurship visit](week7.md)
