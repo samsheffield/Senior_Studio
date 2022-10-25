@@ -25,3 +25,7 @@ Students will spend the semester developing a game prototype that they will then
   - [Career Development visit](week6.md)
 - Week 7 (10/11):
   - [Prototype 2 check-ins, Entrepeneurship visit](week7.md)
+- Week 8 (10/18):
+  - Fall Break
+- Week 9 (10/25):
+  - [Prototype 2 informal playtesting](week9.md)
