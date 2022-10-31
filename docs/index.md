@@ -29,3 +29,5 @@ Students will spend the semester developing a game prototype that they will then
   - Fall Break
 - Week 9 (10/25):
   - [Prototype 2 informal playtesting](week9.md)
+- Week 10 (11/01):
+  - [Prototype 2 final playtesting & discussion](week10.md)

@@ -1,4 +1,4 @@
-# HELLO! 
+# Prototype 2 Check-ins & Work Session
 
 ## Today
 

@@ -1,4 +1,4 @@
-# HELLO AGAIN! 
+# Prototype 2 Informal Playtesting
 
 ## Today
 

@@ -1,4 +1,4 @@
-# W E L C O M E &nbsp; B A C K ! !
+# Class Introduction
 
 ## Today
 ### Discuss the class
