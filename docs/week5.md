@@ -1,4 +1,4 @@
-# HELLO! 
+# Prototype 1 Playtesting & Discussion
 
 ## Today
 

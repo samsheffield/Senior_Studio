@@ -1,4 +1,4 @@
-# ! !W E L C O M E &nbsp; B A C K  &nbsp; B A C K! !
+# Reasearch Visit & Project 1 Check-Ins
 
 ## Today
 ### Library visit with Heather Slania
