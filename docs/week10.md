@@ -4,7 +4,7 @@
 
 ## Prototype 2 Playtesting
 Prototype playtesting [completed prototype] & discussion.
-- Up to 20 minutes of playtesting and feedback for each prototype
+- Up to 40 minutes of playtesting and feedback for each prototype
 - Have what you need prepared beforehand (we don't have time to wait for builds to be created and uploaded)
 - Share a link to any builds via the #playtesting-room channel on the MGL Discord server
 - No build? Non-digital game? We can take turns, but we will need to limit the time and not everyone will get hands-on time with your work
