@@ -26,7 +26,7 @@ _It’s casual! It’s fun! It’s networking with pie! Meet local internship ho
 Get some work done on your prototype during your homework hours _before_ Friday.
 
 
-### Friday's studio work session (10/21): Work on prototype 3
+### Friday's studio work session (11/18): Work on prototype 3
 Make good use of this time to continue development of your prototype.
 
 #### Development Log
