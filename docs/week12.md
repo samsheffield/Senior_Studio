@@ -1,4 +1,4 @@
-# Prototype 2 Work Session
+# Prototype 3 Work Session
 
 ## Today
 
