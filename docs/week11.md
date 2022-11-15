@@ -17,7 +17,7 @@ Here's some encouragement for you to attend this upcoming workshop on Nov 11th f
 
 Time & place: Friday, Nov. 11th 2-4pm
 
-### This Staurday & next: Help wanted!
+### This Saturday & next: Help wanted!
 We're still looking for a little additional help showcasing games at the MD STEM Festival this Saturday (11/12) and at the MD Science Center's Invent the Future event on 11/19. 
 
 _These are great opportunities to show off your work, talk with kids interested in game design, meet some local game developers, and do a little CV boosting!_
