@@ -33,3 +33,5 @@ Students will spend the semester developing a game prototype that they will then
   - [Prototype 2 final playtesting & discussion](week10.md)
 - Week 11 (11/08):
   - [Career Development visit](week11.md)
+- Week 12 (11/15):
+  - [Prototype 2: Work session](week12.md)
