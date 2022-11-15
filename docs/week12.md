@@ -45,4 +45,4 @@ AND/OR...
 
 - 3 examples of other detailed documentation like writing, sketches, screenshots, photos which serve as a snapshot of your progress.
 
-***Remember to send me a link to the updated dev log by 5pm next  Friday to confirm work.***
+***Remember to send me a link to the updated dev log by 5pm on  Friday to confirm work.***
