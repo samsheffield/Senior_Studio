@@ -35,3 +35,5 @@ Students will spend the semester developing a game prototype that they will then
   - [Career Development visit](week11.md)
 - Week 12 (11/15):
   - [Prototype 3: Work session](week12.md)
+- Week 13 (11/22):
+  - [Prototype 3: Work session](week13.md)
