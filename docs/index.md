@@ -39,3 +39,5 @@ Students will spend the semester developing a game prototype that they will then
   - [Prototype 3: Work session](week13.md)
 - Week 14 (11/29):
   - [Prototype 3 final playtesting & discussion](week14.md)
+- Week 15 (12/06):
+  - [Presentation prep](week15.md)
