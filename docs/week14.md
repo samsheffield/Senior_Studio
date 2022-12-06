@@ -31,7 +31,7 @@ Prepare a Google Doc with the following details and email it to me before the st
 - What is the format (digital, non-digital, hybrid)?
 - Which prototype(s) are you using as the basis for this game?
 - Why make this game? What excites/interests you about this idea?
-- Based on your protoyping, what challenges do you expect to encounter if you make this?
+- Based on your prototyping, what challenges do you expect to encounter if you make this?
 - Can you make _all aspects_ of this game alone? If not, who will you collaborate with?
 - What is the smallest possible version of this game you can imagine that still excites you? Describe in as much detail as possible.
 
