@@ -84,7 +84,7 @@ In your game development log:
 - What is a key player experience goal for your game?*
 - What are your personal design goals for the game?
 - Prototyping notes (see below)
-- Research nots (see below)
+- Research notes (see below)
 
 _* You can list more than one, but prioritize the items in the list._
 
