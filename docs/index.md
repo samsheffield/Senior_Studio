@@ -15,51 +15,17 @@ Students will spend the semester developing a game prototype that they will then
 ### Pre-production & Planning Phase (01/17-01/31)
 Week 1 (01/17):
   - [Welcome back. Brainstorming, and planning](week1.md)
-<!-- 
-Week 2 (01/24):
-  - []()
-
-Week 3 (01/31):
-  - []()
--->
 
 ### Development Phase (02/07-04/11)
-<!--
-Week 4 (02/07):
-  - []()
 
-Week 5 (02/14):
-  - []()
-
-Week 6 (02/21):
-  - []()
-
-Week 7 (02/28):
-  - []()
-
-Week 8 (03/07):
-  - []()
--->
 Week 9 (03/14):
   - Spring Break
-<!--
-Week 10 (03/21):
-  - []()
 
-Week 11 (03/28):
-  - []()
-
-Week 12 (04/04):
-  - []()
--->
 Week 13 (04/11): 
   - Senior Projects due
 
 ### Publishing & Promoting (04/18-05/02)
-<!--
-Week 14 (04/18):
-  - []()
--->
+
 Week 15 (04/25):
   - Games & documentation uploaded to itch.io
 
