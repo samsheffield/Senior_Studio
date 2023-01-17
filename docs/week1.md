@@ -23,9 +23,8 @@ At the end of this cycle, you should be able to:
 2. Communicate your project goals (design goals + player experience goals).
 3. Identify key areas, biggest risks, and unknowns about your project.
 3. Use your prototypes as the basis for your game's development.
-
 4. Identify a realistic scope for your work relative to your team size/composition.
-5. Sketch out a development schedule .
+5. Sketch out a development schedule.
 
 
 ### Planning & Making
