@@ -8,60 +8,36 @@ Students will spend the semester developing a game prototype that they will then
 
 
 ## Syllabus
-- PDF is available [here](https://docs.google.com/document/d/1DPUJDgAidFqKrQwNqRN8ZbU5oKlx0-jDuMxt5IJ0VTs/edit?usp=sharing)
+- PDF is available [here](https://docs.google.com/document/d/1Kbk7FH3_x0SqIGCmn7EqubIOWVn83O7voqDWuWkBntM/edit?usp=sharing)
 
 ## Weekly Class Notes
-
-### Pre-production & Planning Phase (01/17-01/31)
-Week 1 (01/17):
-  - [Welcome back. Brainstorming, and planning](week1.md)
-<!-- 
-Week 2 (01/24):
-  - []()
-
-Week 3 (01/31):
-  - []()
--->
-
-### Development Phase (02/07-04/11)
-<!--
-Week 4 (02/07):
-  - []()
-
-Week 5 (02/14):
-  - []()
-
-Week 6 (02/21):
-  - []()
-
-Week 7 (02/28):
-  - []()
-
-Week 8 (03/07):
-  - []()
--->
-Week 9 (03/14):
-  - Spring Break
-<!--
-Week 10 (03/21):
-  - []()
-
-Week 11 (03/28):
-  - []()
-
-Week 12 (04/04):
-  - []()
--->
-Week 13 (04/11): 
-  - Senior Projects due
-
-### Publishing & Promoting (04/18-05/02)
-<!--
-Week 14 (04/18):
-  - []()
--->
-Week 15 (04/25):
-  - Games & documentation uploaded to itch.io
-
-Week 16 (05/02):
-  - Final presentations
+- Week 1 (08/29):
+  - [Welcome, Class Overview, 1-on-1 meetings](week1.md)
+- Week 2 (09/06):
+  - [Self-Introduction presentations, Discuss Prototype 1](week2.md)
+- Week 3 (09/13):
+  - [Library visit, Research discussion, Prototype 1 check-ins](week3.md)
+- Week 4 (09/20):
+  - [Prototype 1 informal playtesting](week4.md)
+- Week 5 (09/27):
+  - [Prototype 1 final playtesting & discussion](week5.md)
+- Week 6 (10/04):
+  - [Career Development visit](week6.md)
+- Week 7 (10/11):
+  - [Prototype 2 check-ins, Entrepeneurship visit](week7.md)
+- Week 8 (10/18):
+  - Fall Break
+- Week 9 (10/25):
+  - [Prototype 2 informal playtesting](week9.md)
+- Week 10 (11/01):
+  - [Prototype 2 final playtesting & discussion](week10.md)
+- Week 11 (11/08):
+  - [Career Development visit](week11.md)
+- Week 12 (11/15):
+  - [Prototype 3: Work session](week12.md)
+- Week 13 (11/22):
+  - [Prototype 3: Work session](week13.md)
+- Week 14 (11/29):
+  - [Prototype 3 final playtesting & discussion](week14.md)
+- Week 15 (12/06):
+  - [Presentation prep](week15.md)
