@@ -28,4 +28,3 @@ This will be the first entry in your development log:
 - Write down and organize your thoughts on the presentation (*where are you? who are you? what do you want to make?*). This will serve as an outline to what you talk about next Tuesday in class.
 - Include a link to your in-progress (or finished) presentation in your development log as documentation this week.
 - ***Remember to send me a link to the updated dev log by 5pm on Friday to confirm work.***
-
