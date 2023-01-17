@@ -105,4 +105,4 @@ _* You can list more than one, but prioritize the items in the list._
 # Coming soon
 
 ## Global Game Jam!
-Global Game Jam is coming up soon (Feb 3rd-5th). This is a great opportunity to warm up, make another thing to add to your portfolio, work with new people/work with friends/work by yourself, and have fun! Sign up [here]()
+Global Game Jam is coming up soon (Feb 3rd-5th). This is a great opportunity to warm up, make another thing to add to your portfolio, work with new people/work with friends/work by yourself, and have fun! Sign up [here](https://globalgamejam.org/2023/jam-sites/mica-game-lab).
