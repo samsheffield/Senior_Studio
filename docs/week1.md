@@ -1,5 +1,5 @@
 # W E L C O M E &nbsp; B A C K ! !
-So excited to welcome you all back. Online! Today, we'll meet as a group to...
+So excited to welcome you all back. Today, we'll meet as a group to...
 - Say hello! (Who are you? How have you been? What are you excited/nervous about this semester?)
 - Discuss this class.
 - Reconnect with projects
@@ -51,7 +51,7 @@ As a way of countering this kind of non-productive thinking:
 2. Don't overthink things.
 3. Embrace failures.
 
-Also, understand that this is not unique to you as students. As creative people, you'll experience this in different shades throughout your life. There is a great snippet from Ira glass on something he refers to as ["the gap""](https://www.youtube.com/watch?v=91FQKciKfHI) which characterizes  you are curently in.
+Also, understand that this is not unique to you as students. As creative people, you'll experience this in different shades throughout your life. There is a great snippet from Ira glass on something he refers to as ["the gap""](https://www.youtube.com/watch?v=91FQKciKfHI) which characterizes the phase you are curently in.
 
 ## Brainstorming activity
 We're going to spend a little time together reconnecting with project ideas. You can do this actvity independently, or with your project partner (if you have one).

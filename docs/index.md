@@ -14,7 +14,10 @@ Students will spend the semester developing a game prototype that they will then
 
 ### Pre-production & Planning Phase (01/17-01/31)
 Week 1 (01/17):
-  - [Welcome back. Brainstorming, and planning](week1.md)
+  - [Welcome back. Brainstorming and planning](week1.md)
+
+Week 2 (01/24):
+  - [Prototyping check-in, scheduling](week2.md)
 
 ### Development Phase (02/07-04/11)
 
