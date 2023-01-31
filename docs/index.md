@@ -19,6 +19,9 @@ Week 1 (01/17):
 Week 2 (01/24):
   - [Prototyping check-in, scheduling](week2.md)
 
+Week 3 (01/31):
+  - [Game Design Macros and 1-on-1 meetings](week3.md)
+
 ### Development Phase (02/07-04/11)
 
 Week 9 (03/14):
