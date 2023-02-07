@@ -22,6 +22,9 @@ Week 2 (01/24):
 Week 3 (01/31):
   - [Game Design Macros and 1-on-1 meetings](week3.md)
 
+Week 4 (01/31):
+  - [Work session](week4.md)
+
 ### Development Phase (02/07-04/11)
 
 Week 9 (03/14):
