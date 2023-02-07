@@ -30,8 +30,9 @@ In addition, you will need to choose dates for 2 in-class playtesting sessions (
 ## Upcoming Class Visits
 We have some 
 - 02/21: Vian Nguyen from Filament Games (1-on-1 Zoom meetings will also be available)
+- 02/28: Andrea Dixon from Exhibitions (Discuss Commencement Show and Artwalk)
 - 03/21: Justin Sirois from Severed Books (in-person class visit)
-- TBD: Andrea Dixon from Exhibitions (Discuss Commencement Show and Artwalk)
+
 
 # Homework
 
