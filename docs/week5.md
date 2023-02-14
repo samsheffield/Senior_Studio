@@ -6,7 +6,7 @@ Hello! Today, we'll meet as a group to...
 ### Next Week: Vian Nguyen Class Visit
 Vian Nguyen from Filament Games will be visitiing on MGL Discord (#Vian-Nguyen-02/21 channel).
 
-A small number of 1-on-1 online meetings to talk with Vian about your work are available; first come, first served. [Here's the sign up sheet.](https://docs.google.com/spreadsheets/d/1VPPGckye4dfASDYwfHIB0FmpBfeEpCP68XI63fCWXEk/edit?usp=sharing (Use MICA login).
+A small number of 1-on-1 online meetings to talk with Vian about your work are available; first come, first served. [Here's the sign up sheet.](https://docs.google.com/spreadsheets/d/1VPPGckye4dfASDYwfHIB0FmpBfeEpCP68XI63fCWXEk/edit?usp=sharing) (Use MICA login).
 
 ### Weekly meetings
 We'll start each class by doing brief check-ins together with every group. You'll discuss your progress from the prior week, show us some of the work, and lay out plans for this week's development.
