@@ -30,6 +30,9 @@ Week 4 (02/07):
 Week 5 (02/14):
   - [Check-ins, Work session](week5.md)
 
+Week 6 (02/21):
+  - [Check-ins, Work session, Class Visit](week6.md)
+
 Week 9 (03/14):
   - Spring Break
 
