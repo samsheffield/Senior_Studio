@@ -5,7 +5,7 @@ Hello! Today, we'll meet as a group to...
 - Work session
 
 ### This Week: Vian Nguyen Class Visit
-Vian Nguyen from Filament Games will be visitiing on MGL Discord (#Vian-Nguyen-Visit channel) at 1pm. Have headphones. Don't be late.
+Vian Nguyen from Filament Games will be visiting on MGL Discord (#Vian-Nguyen-Visit channel) at 1pm. Have headphones. Don't be late.
 
 A small number of 1-on-1 online meetings to talk with Vian about your work are available; first come, first served. [Here's the sign up sheet.](https://docs.google.com/spreadsheets/d/1VPPGckye4dfASDYwfHIB0FmpBfeEpCP68XI63fCWXEk/edit?usp=sharing) (Use MICA login).
 
