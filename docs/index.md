@@ -36,15 +36,24 @@ Week 6 (02/21):
 Week 7 (02/28):
   - [Check-ins, Work session, Exhibitions Class Visit](week7.md)
 
+Week 8 (03/07):
+  - Check-ins, Work session, Playtesting
+
 Week 9 (03/14):
   - Spring Break
 
+Week 10 (03/21):
+  - [Playtesting, Justin Sirois Class Visit](week10.md)
+
 Week 13 (04/11): 
-  - Senior Projects due
+  - [Senior Projects due](week13.md)
+
+Week 14 (04/18):
+  - [Review remaining projects. Wrapping up](week14.md)
 
 ### Publishing & Promoting (04/18-05/02)
 
-Week 15 (04/25):
+Week 15 (04/27):
   - Games & documentation uploaded to itch.io
 
 Week 16 (05/02):
