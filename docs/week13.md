@@ -12,7 +12,7 @@ Today, we'll playtest your finished games! Yay!
 
 # Homework
 
-## Polish you games
+## Polish your games
 Spend the week resonding to the critical feedback you received today. In two weeks you will be required to set up an itch.io page to distribute your game online. We will discuss details and give guidance on this next week.
 
 I will also check-in with each next week to see how things are going, so please have your progress available. Reach out this week if you need any assistance. _Good luck everyone!_

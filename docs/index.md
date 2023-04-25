@@ -54,7 +54,7 @@ Week 14 (04/18):
 ### Publishing & Promoting (04/18-05/02)
 
 Week 15 (04/27):
-  - Games & documentation uploaded to itch.io
+  - [Games & documentation uploaded to itch.io](week15.md)
 
 Week 16 (05/02):
   - Final presentations
