@@ -7,7 +7,7 @@ So excited to welcome you all back. Today, we'll meet as a group to...
 ### Discuss the class
 So excited to welcome you all back in-person!
 - Say hello! (Who are you? How have you been? What are you excited/nervous about this semester?)
-- Discuss this class ([Syllabus](), Course adjustments & reasoning, Spring vs. Fall semesters, expectations and responsibilities)
+- Discuss this class ([Syllabus](https://docs.google.com/document/d/16n9ynIaXhGAcryLIEwBfpeYK2IpDd3oDKhHminUAnsU/edit?usp=sharing), Course adjustments & reasoning, Spring vs. Fall semesters, expectations and responsibilities)
 - Any other concerns or questions? (This class, Senior year, ...uhh, Everything?!)
 
 ## Homework
@@ -20,5 +20,5 @@ So excited to welcome you all back in-person!
 
 This will be the first entry in your development log:
 - Write down and organize your thoughts on the presentation (*where are you? who are you? what do you want to make?*). This will serve as an outline to what you talk about next Tuesday in class.
-- Include a link to your in-progress (or finished) presentation in your development log as documentation this week.
+- Include a link to your in-progress work in your development log as documentation for this week.
 - ***Remember to send me a link to the updated dev log by 5pm on Friday to confirm work.***
