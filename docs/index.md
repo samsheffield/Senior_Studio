@@ -11,6 +11,7 @@ Students will spend the semester developing a game prototype that they will then
 - PDF is available [here](https://docs.google.com/document/d/1Kbk7FH3_x0SqIGCmn7EqubIOWVn83O7voqDWuWkBntM/edit?usp=sharing)
 
 ## Weekly Class Notes
+
 - Week 1 (08/29):
   - [Welcome, Class Overview, 1-on-1 meetings](week1.md)
 - Week 2 (09/06):
