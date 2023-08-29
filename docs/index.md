@@ -15,4 +15,3 @@ Students will spend the semester developing a game prototype that they will then
 - Week 1 (08/29):
   - [Welcome, Class Overview](week1.md)
   - 09/01: Independent work sesion
-
