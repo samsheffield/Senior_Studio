@@ -60,6 +60,10 @@ _What kind of questions?*_
 
 
 ## Homework
+
+### Before you leave: Say hi in the class Discord channel
+I need to assign you each a role before I make the channel private. Please say hello in the #senior-studio-f23 channel before you leave today.
+
 ### Create your working space
 - Set up your self-hosted Google Drive folder where you will share work.
 - Google Document which will serve as your development log for classwork
