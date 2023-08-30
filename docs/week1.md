@@ -30,7 +30,7 @@ Reminder: the next small prototype can't be a direct continuation of this one. F
 
 09/19: Final playtesting and discussion
 - Prototype is completed
-- Playtesting session (Feel free to invite peopl efrom outside of class)
+- Playtesting session (Feel free to invite people from outside of class)
 - No questions for players, just observing and note taking
 - Tell us what you were trying to accomplish and how it went
 - Feedback and discussion as a group
@@ -49,7 +49,7 @@ _What kind of questions?*_
 - What kind of experience does this player activity*** produce?
 - What tone or mood does the player activity have?
 - What interesting gameplay and story things can I do with this player activity right now?
-- How muchcould I do with this player activity if I had the time to devise different situationsand scenarios in which to use it?
+- How much could I do with this player activity if I had the time to devise different situations and scenarios in which to use it?
 - **What question am I trying to answer with this prototype?**
 
 *This list is from the uber-helpful A Playful Production Process by Richard LeMarchand
