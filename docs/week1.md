@@ -69,7 +69,7 @@ I need to assign you each a role before I make the channel private. Please say h
 - Google Document which will serve as your development log for classwork
 - ***Share a link with me via email.***
 
-### Begin working on Exploratory Protoype 1
+### Begin working on Exploratory Prototype 1
 You are expected to make some progress on Friday, as well as before or after Friday. 
 
 ### Friday's studio work session

@@ -15,3 +15,12 @@ Students will spend the semester developing a game prototype that they will then
 - Week 1 (08/29):
   - [Welcome, Class Overview](week1.md)
   - 09/01: Independent work session
+
+- Week 2 (09/05):
+  - [Exploratory Prototype Check-ins](week2.md)
+  - 09/08: Independent work session
+
+- Week 3 (09/12):
+  - Playtesting
+  - Afternoon class visit to Code in the Schools
+  - 09/15: Independent work session  
