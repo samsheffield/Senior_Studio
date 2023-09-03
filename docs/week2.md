@@ -21,6 +21,11 @@ The goal of prototyping is not to end up with a finished game, it's to test idea
 
 One way you might approach this is to think of what you're making _right now_ as a toy (objects which elicit play) rather than as a game. Focusing on the thing as a small, simple, playful system can help you look for fundamental the verbs and player activities that support a game you make _in the future_.
 
+#### Failure
+There's no failure in trying something new. Sometimes prototypes fail and we move on from them to pursue new ones. This is also why we want smaller prototypes with fewer unknowns to focus on. 
+
+Less time + less resources = less investment. It's okay to be ruthless with what you make here.
+
 ### Work session
 - Work continues!
 - I will meet with each of you if there is specific information I would like to follow up on. Grab me if you need to discuss something.
