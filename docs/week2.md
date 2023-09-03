@@ -28,22 +28,22 @@ One way you might approach this is to think of what you're making _right now_ as
 
 
 #### Schedule
-TODAY: Check-in and sharing 
+__TODAY: Check-in and sharing__
 
 
-09/12: In-progress playtesting
+__09/12: In-progress playtesting__
 - Time to test your assumptions
 - No questions for players, just observing and note taking
 - Feedback (but only if you request it and ask for something specific)
 
-09/19: Final playtesting and discussion
+__09/19: Final playtesting and discussion__
 - Prototype is completed
 - Playtesting session (Feel free to invite people from outside of class)
 - No questions for players, just observing and note taking
 - Tell us what you were trying to accomplish and how it went
 - Feedback and discussion as a group
 
-09/26: Documentation due
+__09/26: Documentation due__
 - One page website highlighting an aspect of the prototype's development and details highlighting your role(s) in its development
 - We will discuss strategies for this on 09/19, but for now focus on doing the work and documenting your steps along the way in your weekly development log entries.
 
