@@ -26,5 +26,9 @@ Students will spend the semester developing a game prototype that they will then
   - 09/15: Independent work session  
 
 - Week 4 (09/19):
-  - Final playtesting
+  - [Final playtesting](week4.md)
   - Discuss documentation of exploratory prototype 1
+
+  - Week 5 (09/26):
+  - Documentation review
+  - Begin exploratory prototype 2
