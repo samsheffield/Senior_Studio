@@ -9,7 +9,7 @@ Today, we'll meet as a group to run one more playtest on your first prototype.
 3. Afterwards we'll follow-up as a group to hear your thoughts and give you any additional feedback we might have.
 
 ### Post-development Documentation
-For this prototypes, you will be required to create a one-page website which documents your work and highlights your role in developing it. For the website, I recommend using a free website builder such as [Adobe Portfolio](https://portfolio.adobe.com/sites) unless web design is a skill set which you already have. 
+For this prototype, you will be required to create a one-page website which documents your work and highlights your role in developing it. For the website, I recommend using a free website builder such as [Adobe Portfolio](https://portfolio.adobe.com/sites) unless web design is a skill set which you already have. 
 
 This should include:
 1. A brief description of the prototype
@@ -42,6 +42,6 @@ Check out the show downstairs in the Dolphin Gallery!
 Come to Brown 215 from 2:15-3:30 for pizza and games with our friends in Animation.
 
 ## GameScape (Saturday & Sunday)
-This is still happening this weekend from 12-5 at Joe Squared on North Ave. (I think!) Contact Melanie (mstegman@mica.edu) if you are interested in participating.
+This is still happening this weekend from 12-5 at Joe Squared on North Ave. Contact Melanie (mstegman@mica.edu) if you are interested in participating.
 
 
