@@ -30,5 +30,5 @@ Students will spend the semester developing a game prototype that they will then
   - Discuss documentation of exploratory prototype 1
 
 - Week 5 (09/26):
-  - Documentation review
+  - [Documentation review](week5.md)
   - Begin exploratory prototype 2
