@@ -2,7 +2,7 @@
 Class notes for 09/26/23
 
 ## Review Post-development Documentation
-Let's check out your documentation. __please post your URL to the class Discord.__
+Let's check out your documentation. __Please post your URL to the class Discord.__
 
 As a reminder, this documentation should include:
 1. A brief description of the prototype
