@@ -34,7 +34,10 @@ Students will spend the semester developing a game prototype that they will then
   - Begin exploratory prototype 2
   - 09/29: Independent work session
 
-  - Week 6 (10/03):
-  - [In-progress Playtesting](week6.md)
-  - Afternoon class visit to Code in the Schools
+- Week 6 (10/03):
+  - [Prototype Check-ins](week6.md)
   - 10/06: Independent work session  
+
+- Week 7 (10/10):
+  - [In-progress Playtesting](week7.md)
+  - 10/13: Independent work session   
