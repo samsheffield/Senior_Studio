@@ -28,3 +28,9 @@ You are expected to make some progress on Friday, as well as after Fall Break.
 We need something fully playable (relative to your own goals) in class next week. Digital games can be run as projects on your own computer (no builds necessary). Non-video games require all the things needed to play them to be complete upon arrival. 
 
 Thank you in advance for arriving early if your prototype requires any time-consuming setup.
+
+### Documentation
+- Build (or project if you have enough Drive space) for digital games
+- 3 examples of other detailed documentation like writing, sketches, screenshots, photos which serve as a snapshot of your progress.
+
+***Remember to send me a link to the updated development log by 5pm on Friday to confirm work.***
