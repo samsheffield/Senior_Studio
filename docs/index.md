@@ -45,3 +45,7 @@ Students will spend the semester developing a game prototype that they will then
 - Week 9 (10/24):
   - [Final playtesting](week9.md)
   - 10/27: Independent work session
+
+- Week 10 (10/31):
+  - [Documentation review](week10.md)
+  - 11/03: Independent work session
