@@ -32,16 +32,17 @@ you are __strongly encouraged__ to make sure that your team is composed of at le
 #### Outside collaborators
 If you decide to collaborate with students outside of the Senior Studio, they will be expected to adhere to our development schedule for the proof-of-concept and Senior Project. I would recommend that they coordinate an Independent Study to ensure that your team has time each week dedicated to staying on schedule. Your partner(s) are also encouraged to participate in the end-of-semester presentations.
 
-### Schedule
-- 
-- 
-- 
-- 
-
 
 #### This semester
 
 The proof-of-concept development schedule looks like this
+- Week of 10/31: Form teams and begin prototyping
+- Week of 11/07: Check-in and class visit from Heather Slania to discuss research
+- Week of 11/14: First playable prototype due for playtesting
+- Week of 11/21: Second playable prototype due
+- Week of 11/28: Complete prototype and begin presentation
+- Week of 12/05: Final playtesting and presentation practice
+- 12/12: Final presentations
 
 #### Next semester
 
