@@ -50,6 +50,6 @@ Students will spend the semester developing a game prototype that they will then
   - [Documentation review](week10.md)
   - 11/03: Independent work session
 
-- Week 10 (11/07):
+- Week 11 (11/07):
   - [Proof-of-Concept Check-ins](week11.md)
   - 11/10: Independent work session
