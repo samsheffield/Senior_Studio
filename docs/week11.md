@@ -1,48 +1,57 @@
-# Professional Development Visit
+# Prototype 3 Check-ins
+Class notes for 11/07/23
 
-## Today
+## Proof-of-concept Prototype
 
-### Finish up Prototype 2 Playtesting
-Prototype playtesting [completed prototype] & discussion.
-- Play and discuss the remaining prototypes
+### The schedule
 
-### Prototype 2 Post-Development Documentation
-**Send me the link to your completed documentation if you haven't already.**
+The proof-of-concept development schedule looks like this
+- Week of 10/31: Form teams and begin prototyping
+- Week of 11/07: Check-in and class visit from Heather Slania to discuss research
+- Week of 11/14: First playable prototype due for playtesting
+- Week of 11/21: Second playable prototype due
+- Week of 11/28: Complete prototype and begin presentation
+- Week of 12/05: Final playtesting and presentation practice
+- 12/12: Final presentations
 
-### Visit from Career Development @ 11
-Marsha Lynn Hammond, our Career Development liason, will be visiting class today to dicuss resume and cover letter writing. 
+### Check-in with each group
+- What are your plans?
+- What did you accomplish this week?
+- Show us something.
 
-### This Friday: Internship Learning Lab
-Here's some encouragement for you to attend this upcoming workshop on Nov 11th from Career Development on internships. _How to search for them, fund them, register them for credit, and more!_
 
-Time & place: Friday, Nov. 11th 2-4pm
+### Heather Slania class visit
+Heather is the head of the Decker Library, our program's library liaison, and an avid gamer!
 
-### This Saturday & next: Help wanted!
-We're still looking for a little additional help showcasing games at the MD STEM Festival this Saturday (11/12) and at the MD Science Center's Invent the Future event on 11/19. 
+She will be visiting from 12-1:30 today to talk with each group about your project ideas and to give guidance on possible research directions.
 
-_These are great opportunities to show off your work, talk with kids interested in game design, meet some local game developers, and do a little CV boosting!_
+__Let's make a schedule for lunch breaks.__
 
-Interested in participating in either event? Please contact Sam as soon as possible for more information. I will be reaching out tomorrow with everyone who has expressed interest to start coordinating.
 
 ## Homework
 
-### Prototype 3: Ideation & Set up
-Begin development your second prototype. We'll share ideas and any progress next week in class. You'll also have an opportunity to work, so please have what you need with you.
+### Proof-of-concept prototype: First playable prototype
+You are expected to make some progress on Friday, as well as before or after Friday. This is your top priorities:
 
-#### Development Log
-Create a brand new development log. This will be the first entry in your development log:
+-  __You need a playable prototype which demonstrates where you are heading and what's interesting/fun/novel about the idea.__ That means it should contain enough gameplay and information for us to "get it".
+
+#### Development logs
+Each team member will need to create a development log to track individual progress.
+
+This will be the second entry in your development log:
 - Date.
-- Describe the prototype you want to make, its goals, and its scope. 
-- Prototyping goals for this week's work session*.
-- Description of what you actually accomplished, problems encountered, questions for yourself, and any other details that are personally useful.
+- Describe the prototype you want to make, its goals, and its scope.
+- Prototyping goals for this week's work session.
+- Description of what you actually accomplished, problems encountered, questions you asked (refer to the list above for ideas), and any other details that are personally useful.
 - Next steps for your prototyping.
-- Link to documentation below.
+- A link to documentation below.
 
 #### Documentation
-- Build (or project if you have enough Drive space) for digital games
-
-AND/OR...
-
 - 3 examples of other detailed documentation like writing, sketches, screenshots, photos which serve as a snapshot of your progress.
 
-**Remember to send me a link to the updated dev log by 5pm on Friday to confirm work.**
+***Remember to send me a link to the updated development log by 5pm on Friday to confirm work.***
+
+## Upcoming Events
+- __11/08 @ noon in Falvey Hall__: Animation/GMD Spring semester info session followed by SVA open forum meeting. _Details on the Discord!_
+- __11/15 @ 2pm in BBOX__: Practice & Pie networking event (People from Firaxis and Zenimax will be participating). _Be sure to register with Career Development beforehand!_
+- __11/15 @ 7pm on Zoom__: GMD Alum, Jenna Yow (Narrative Designer @ [KO_OP](https://www.ko-opmode.com/)), will be doing an online talk/class visit. _Zoom link will be shared next week!_
