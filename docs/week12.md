@@ -1,48 +1,45 @@
-# Prototype 3 Work Session
+# Prototype 3 Initial Playtesting
+Class notes for 11/07/23
 
-## Today
+## Proof-of-concept Prototype
 
-### Work Session & Prototype 3 Check-ins
-Get some work done today! After lunch, we'll check in with everyone and take a look at your progress so far. We may have class visitors from a school in Hamburg, Germany who are in seeing what you are up to. Please have something to show!
+### The schedule
 
-### Prototype 3 Scheduling
-Make sure you are carefully budgeting your time this cycle. We have a holiday at the end of next week which will affect your normal Friday studio session, and we have no time remaining in the semester for you to miss this prototype's final deadline on 11/29. This is the week after Thanksgiving, so please manage your time so that you are not scheduling work when you could be taking a break. 
+The proof-of-concept development schedule looks like this
+- Week of 11/14: First playable prototype due for playtesting
+- Week of 11/21: Second playable prototype due
+- Week of 11/28: Complete prototype and begin presentation
+- Week of 12/05: Final playtesting and presentation practice
+- 12/12: Final presentations
 
-**We will be meeting on Tuesday next week.** It will be a work session with quick check-ins towards the end of the day. Informal playtesting will be managed by request. Let me know in the morning next week if you want to test. 
-
-### This Wednesday: Career Development Networking Event: Practice & Pie
-Representatives from Firaxis, Big Huge Games, and Zenimax will all be participating in this fun, low-key networking event, and, even though signups are currently full, if you register for the waitlist as a GMD student, you will be let in to the event. 
-
-Date: Wednesday, Nov 16, 2:30 - 4:30 pm
-Location: BBOX (in-person)
-Register: Visit micanetwork.com > student login > events > Practice & Pie
-
-About the event: 
-_It’s casual! It’s fun! It’s networking with pie! Meet local internship hosts and MICA alumni. Practice your conversational skills/professionally talking about yourself and your work for future interviews and portfolio reviews. Make connections with potential internship hosts and/or industry professionals. Ask alumni insider industry questions you want to know more about._
+### Check-in with each group
+- What are your plans?
+- What did you accomplish this week?
+- Show us something.
 
 ## Homework
 
-### This week!
-Get some work done on your prototype during your homework hours _before_ Friday.
+### Proof-of-concept prototype: Second playable prototype
+You are expected to make some progress on Friday (as well as before or after Friday!) What are your priorities? What questions do you have that this prototype will address? Keep moving things forward.
 
 
-### Friday's studio work session (11/18): Work on prototype 3
-Make good use of this time to continue development of your prototype.
+#### Development logs
+Each team member will need to create a development log to track individual progress.
 
-#### Development Log
-
-This will be the second entry in your development log for Prototype 3:
+This will be the second entry in your development log:
 - Date.
+- Describe the prototype you want to make, its goals, and its scope.
 - Prototyping goals for this week's work session.
-- Description of what you actually accomplished, problems encountered, questions for yourself, and any other details that are personally useful.
+- Description of what you actually accomplished, problems encountered, questions you asked (refer to the list above for ideas), and any other details that are personally useful.
 - Next steps for your prototyping.
-- Link to documentation below.
+- A link to documentation below.
 
 #### Documentation
-- Build (or project if you have enough Drive space) for digital games
-
-AND/OR...
-
 - 3 examples of other detailed documentation like writing, sketches, screenshots, photos which serve as a snapshot of your progress.
 
-***Remember to send me a link to the updated dev log by 5pm on  Friday to confirm work.***
+***Remember to send me a link to the updated development log by 5pm on Friday to confirm work.***
+
+## Upcoming Events
+- __11/15 @ noon in Falvey Hall__: Animation/GMD Spring semester info session followed by SVA open forum meeting._
+- __11/15 @ 2pm in BBOX__: Practice & Pie networking event (People from Firaxis and Zenimax will be participating). _Be sure to register with Career Development beforehand!_
+- __11/15 @ 7pm on Zoom__: GMD Alum, Jenna Yow (Narrative Designer @ [KO_OP](https://www.ko-opmode.com/)), will be doing an online talk/class visit. _Zoom link is on the Discord #general channel!_

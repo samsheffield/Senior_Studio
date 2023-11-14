@@ -31,7 +31,7 @@ __Let's make a schedule for lunch breaks.__
 ## Homework
 
 ### Proof-of-concept prototype: First playable prototype
-You are expected to make some progress on Friday, as well as before or after Friday. This is your top priorities:
+You are expected to make some progress on Friday, as well as before or after Friday. This is your top priority:
 
 -  __You need a playable prototype which demonstrates where you are heading and what's interesting/fun/novel about the idea.__ That means it should contain enough gameplay and information for us to "get it".
 
