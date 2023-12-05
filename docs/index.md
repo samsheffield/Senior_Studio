@@ -57,3 +57,13 @@ Students will spend the semester developing a game prototype that they will then
 - Week 12 (11/14):
   - [Proof-of-Concept Initial Playtesting Check-ins](week12.md)
   - 11/17: Independent work session
+
+  - Week 13 (11/21):
+    - Check-ins
+    - Work session
+  
+  - Week 14 (11/28):
+    - Work session
+
+  - Week 15 (12/05):
+    - [Proof of concept prototype playtesting](week15.md)
