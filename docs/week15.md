@@ -9,7 +9,7 @@ Today, we'll meet as a group to run one more playtest on your first prototype.
 3. Afterwards we'll follow-up as a group to hear your thoughts and give you any additional feedback we might have.
 
 
-### End of semester Presentations next week @ 10 AM
+### End of semester presentations next week @ 10 AM
 Requirements can be found [here](https://docs.google.com/document/d/1pS-JvL4qutjqK28auh5mWcf0xWpiN8GO9f_fWeQ-JRQ/edit?usp=sharing)
 
 ### Want to practice?
