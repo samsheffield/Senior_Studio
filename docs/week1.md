@@ -67,6 +67,8 @@ We need to start thinking about the scheduling of your development to make sure 
 
 Constraints in design are good. They force us to make choices and think beyond our typical ways of doing things. Often constraints are factors beyond our control (time, money, energy), but as designers and artists we are used to setting our own constraints as a way of encouraging creative thinking.
 
+Renowned Mid-Century industrial designers, Charles and Ray Eames, regarded design as dependent largely on [the sum of all constraints](https://disegnojournal.com/newsfeed/the-sum-of-all-constraints).
+
 In our specific case, we have a time constraint that will shape what you make in this class, so we'll benefit from some simple scheduling to get an idea of what additional constraints you may need to implement to get your work done.
 
 ## Setting a simple schedule with a prioritized task list
