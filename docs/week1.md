@@ -15,7 +15,7 @@ These are our priorities this semester:
 - [Here's the Spring '24 syllabus](https://docs.google.com/document/d/1zERo4_Udrk43SyrUX2A9VRs9Ck42KIv1kYG6JIPoSwI/edit?usp=sharing).
 
 ## Senior Project Important Deadlines
-- __April 16th: Final builds produced and Google Drive link shared via MGL Discord.__ Final in-class playtest as a group
+- __April 16th: Final in-class playtesting as a group.__ 
 - April 23rd: Project documentation (press kit) is due. Itch.io pages are ready to go.
 - April 30th: Final presentations for guest panelists
 
@@ -69,79 +69,49 @@ Constraints in design are good. They force us to make choices and think beyond o
 
 In our specific case, we have a time constraint that will shape what you make in this class, so we'll benefit from some simple scheduling to get an idea of what additional constraints you may need to implement to get your work done.
 
-## Setting a simple schedule
-We'll begin setting a simple schedule by estimating our project's scope...
+## Setting a simple schedule with a prioritized task list
 
-### How much time is available?
-We can do some simple math to estimate your total available production time:
+Based on your proof-of-concept prototyping last semester, you already know a lot about your projects. One thing which is probably still unclear is, _will you be able to finish it_? 
 
-- Determine how many weeks you have for development. (We have 8 for this project)
-- Determine how many hours you have each week on average to work on your project. (6 hours. Minimum of 5 outside of class + minimum of 1 hour a week in-class)
-- Determine how many people are on your team (Most people in this class will be 1 person teams)
+We have to start understanding the scope of the game you're proposing to make as you are imagining it now and make any necessary changes so that it is both exciting _and_ achievable. I have great faith that _everyone_ will pull this off this semester.
 
-Then use the formula: Production time (48 or 96 hours) = number of weeks (8) x number of hours (6) x number of people on team (1 or 2).
-
-*Does this seem like enough time? How do you know?*
-
-### Estimating scope
-Scope refers to the list of achievable things in a project. 
-
-There are different strategies you can use in your planning, such as developing a game design macro spreadsheet, that can generate a detailed list of the critical things in your game. Having this degree of granularity is very informative, because it provides a clear picture of the tasks required to make your game. However, even without this much detail, we can begin estimating production time based on what we already know about our goals, skills, and priorities from the protoyping that you've already done.
-
-### Check your scope with a prioritized task list
-Now comes the part where you determine if this project is viable at the scale your imagining it. This is the simple scheduling part.
-
-For this work, it's helpful if you make a simple 4 column spreadsheet to help keep it organized. [Here's a template](https://docs.google.com/spreadsheets/d/1MY6pPJ2BMkKRPS5r-q1D0qjPDfCnrxaidAy7j_E1vl0/edit?usp=sharing) you can copy 
-that identifies tasks, their priority, the hours estimated to accomplish the task, and the team member assigned.
-
-
-#### 1. Identify tasks
-Be thorough and try to list as many tasks as you can think of necessary to your game's development. The game design macro approach (which we'll look at next week) can give you a detailed framework for this kind of work.
-
-#### 2. Estimate time to complete each task
-Keep it simple. Too small of an increment will make this list unwieldy. Too big an increment lacks important detail. Use 1, 2, 4, or 8 hour blocks to avoid getting too bogged down in details. Expect everything to take much longer than anticipated
-
-*In our case, use the prototyping work you did last semester as a guide to how long things take you to do (if you were deliberate and detailed in your documentation last semester, here's one way it pays off).*
-
-#### 3. Set priorities
-Set a priority for your tasks. This is harder than it appears because... isn't everything  obviously a 1?? Don't overthink it:
-- Priority 1: These are mandatory things that can't be cut. For example, fundamental functional stuff and fundamental visual and audio stuff.
-- Priority 2: These are things your game needs but that you might cut. Secondary things related to interactons, visuals, sounds, and mechanics.
-- Priority 3: These are the nice to have things. This might include a more diverse range of objects or visuals, or bonus levels that aren't central to what you are making.
-
-#### 4. Assign tasks without overlap
-Delegate tasks to team members. *One task to one team member*. Collaboration doesn't mean that we are working on the same exact thing at the same time.
-
-### Add it all up!
-Does the number of hours in the task list fit within your production time? If not, you either need more people or to reduce the scope of the game you are making. Be realistic about your time and your goals. 
-
-
-## Timeboxing
-The approach to simple scheduling above is a form of timeboxing. [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) is project management concept commonly associated with Agile Software Development practices which are regularly found in commercial game development (iterative, incremental, and quality focused). 
-
-It's a simple form of scheduling in which you assign critical tasks a fixed amount of time. If you start to run short on time, you have to reduce the scope of the task. This will be the expectation in this class as well. If you wing it, you have no way of guaranteeing that you'll mee the level of quality that you want to achieve with your game.
-
-### What if you run out of time and its not done or good enough?
-Running out of time is a *huge problem* in commercial game development. It is far better to realize you're in over your head early on in a project by doing a small amount of planning than realizing it by running out of time at the end of development. A small amount of planning can can help you focus on project goals and priorities.
-
-If you do start to run out of time on your scheduled timeboxing task, think about what youre trying to achieve, how long you think it will take, and whether your plans need to change to focus on fewer (or possibly different) things. 
-
-Remember, not everything you onced imagined in your game will definitely be there. Prioritize the good stuff.
-
-
-## Timeboxing exercise: 
-1. Estimate your total production time using the formula above (T = W x H X P)
-
-2. Use the approach described above to set up a simple timeboxed schedule for your game's development in the form of a prioritized list. 
-
-You will refine this next week with information using the game design macro you develop in class, but this first pass is to give you a general idea as to whether you are thinking too big or have too many unanswered questions about fundamental things.  
+Let's discuss one approach to scheduling which will help us get an idea of the scope of our proposed projects. [Creating a prioritized task list](https://docs.google.com/document/d/1pmEHAp4GvEmNx0VTWoANKJxc-yphfRN2DBfWA9g6ewQ/edit?usp=sharing).
 
 ## 1-on-1 meetings with each team
 Let's meet to reconnect with your goals and preliminary plans heading into this semester. We'll set up a schedule during class.
 
 
+
 # Homework
 
+## Set up your shared workspace and share the link
+Set up the Google Drive folder you wish to use for development this semester. You are welcome to continue using the one from last semester. Either way, **each team member needs to share the link with me via the Canvas assignment** (Link to your team's online folder). 
+
+Sounds silly, I know, but you would be surprised how many times I've had students locked out of their own projects!
+
+## 2 hours: Timeboxing Exercise: 
+Work with your team to...
+
+1. Estimate your total production time using the formula from the document linked above (Time = Weeks x Hours x People)
+
+2. Set up a simple timeboxed schedule for your game's development in the form of a prioritized list. Use a single Google Spreadsheet to do this work.
+
+You will refine this next week with information using the game design macro you develop in class, but this first pass is to give you a general idea as to whether you are thinking too big or have too many unanswered questions about fundamental things.  
+
+**Each team member is responsible for sharing the link to the completed spreadsheet to the Canvas assignment (Prioritized Task List).**
+
+
+
+## 4 Hours: Prototyping or Researching
+
+### Need to prototype?
+- Identify some aspects of your game which are critical to your game which still need investigation and make small prototypes which tests their viability. 
+
+### Need to research?
+- Identify some aspect of your game which you want to know more about and conduct some research on it.
+- Be sure to document your research and what you learned.
+
+_You do not need to submit these anywhere. We will check-in next week and you can discuss your work then._
 
 
 # Coming soon

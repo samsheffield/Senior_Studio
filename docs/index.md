@@ -14,7 +14,7 @@ Students will spend the semester developing a game prototype that they will then
 
 ### Pre-production & Planning Phase (01/16-02/06)
 Week 1 (01/16):
-  - [Welcome back. Begin pre-production. Scheduling](week1.md)
+  - [Welcome back. Begin pre-production. Simple scheduling](week1.md)
 
 Week 2 (01/23):
   - Developing game design macros and burndown charts. Global Game Jam time!
