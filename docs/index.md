@@ -17,7 +17,7 @@ Week 1 (01/16):
   - [Welcome back. Begin pre-production. Simple scheduling](week1.md)
 
 Week 2 (01/23):
-  - Developing game design macros and burndown charts. Global Game Jam time!
+  - [Developing game design macros and burndown charts. Global Game Jam time!](week2.md)
 
 Week 3 (01/30):
   -  Developing a Game Design Document

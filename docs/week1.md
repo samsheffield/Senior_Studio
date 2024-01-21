@@ -79,10 +79,6 @@ We have to start understanding the scope of the game you're proposing to make as
 
 Let's discuss one approach to scheduling which will help us get an idea of the scope of our proposed projects. [Creating a prioritized task list](https://docs.google.com/document/d/1pmEHAp4GvEmNx0VTWoANKJxc-yphfRN2DBfWA9g6ewQ/edit?usp=sharing).
 
-## 1-on-1 meetings with each team
-Let's meet to reconnect with your goals and preliminary plans heading into this semester. We'll set up a schedule during class.
-
-
 
 # Homework
 
@@ -121,7 +117,7 @@ _You do not need to submit these anywhere. We will check-in next week and you ca
 ## Global Game Jam!
 Global Game Jam is coming up soon (Jan 26-28th). This is a great opportunity to warm up, finish a small game for your portfolio, work with new people/work with old friends/work by yourself, and have fun! 
 
-Also, just as a reminder, the GGJ consistently pops up in conversations with visiting developers as something they view _very positively_ from perspective employees. It demonstrates your engagement with game development outside of school assignments, your ability to meet deadlines and work within constraints, and (possibly) your ability to work with others. 
+Also, just as a reminder, the GGJ consistently pops up in conversations with visiting developers as something they view _very positively_ from prospective employees. It demonstrates your engagement with game development outside of school assignments, your ability to meet deadlines and work within constraints, and (possibly) your ability to work with others. 
 
 
 Sign up [here](https://globalgamejam.org/jam-sites/2024/mica-game-design).
