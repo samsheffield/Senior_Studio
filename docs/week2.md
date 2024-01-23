@@ -57,6 +57,12 @@ The columns in the chart provide the structure for describing this important inf
 - **Emotional Beat**: 
 What would you like a player to be feeling in this part of the game? While we can't _make_ someone feel somthing, we can make design decisions to encourage certain emotions. [Dr. Plutchik's Wheel of Emotions](https://www.6seconds.org/2022/03/13/plutchik-wheel-emotions/) might be a good resource for identifying emotions.
 
+## Burndown Chart
+Your game design macro provides a highly detailed and prioritized  list that can be used to help manage development tasks which still need to be completed. 
+
+A simple and effective approach to this, often referred to as a _burndown chart_, only requires striking off any completed task as it is completed. 
+
+
 ## Today: Create a game design macro chart for your game
 Using [the template](https://docs.google.com/spreadsheets/d/1HHgzKnf3q6_eWLwdr2nA7_0GeJer2VZG9YJxq2f7IW4/edit?usp=sharing) as a framework, create an overview of your game. 
 
@@ -87,4 +93,4 @@ _You do not need to submit these anywhere. We will check-in next week and you ca
 
 
 ## Submit the link to your completed macro to Canvas
-Send me the link to your game design macro via the Canvas assignment.
+Each team member is responsible for submitting the link to your team's game design macro via this week's Canvas assignment.
