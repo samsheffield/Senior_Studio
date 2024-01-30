@@ -20,7 +20,7 @@ Week 2 (01/23):
   - [Developing game design macros and burndown charts. Global Game Jam time!](week2.md)
 
 Week 3 (01/30):
-  -  Developing a Game Design Document
+  -  [Developing a Game Design Overview](week3.md)
 
 Week 4 (02/06):
   - Pre-production and planning concludes. 
