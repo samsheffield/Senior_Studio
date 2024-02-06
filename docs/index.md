@@ -23,13 +23,13 @@ Week 3 (01/30):
   -  [Developing a Game Design Overview](week3.md)
 
 Week 4 (02/06):
-  - Pre-production and planning concludes. 
+  - Pre-production and planning concludes.
 
 
 ### Development Phase (02/06-04/16)
 
 Week 4 (02/06):
-  - Core development begins.
+  - [Core development begins.](week4.md)
 
  Week 5 (02/13):
   - Professional development session. Project check-ins. 
