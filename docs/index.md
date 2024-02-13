@@ -32,7 +32,7 @@ Week 4 (02/06):
   - [Core development begins.](week4.md)
 
  Week 5 (02/13):
-  - Professional development session. Project check-ins. 
+  - [Professional development session. Project check-ins.](week5.md) 
 
 Week 6 (02/20):
   - Playtesting week. Class visitor.
