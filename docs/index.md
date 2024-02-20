@@ -35,7 +35,7 @@ Week 4 (02/06):
   - [Professional development session. Project check-ins.](week5.md) 
 
 Week 6 (02/20):
-  - Playtesting week. Class visitor.
+  - [Playtesting week. Class visitor.](week6.md)
 
 Week 7 (02/27):
   - Work session. Project check-ins.
