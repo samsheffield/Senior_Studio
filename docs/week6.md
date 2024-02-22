@@ -19,6 +19,20 @@ Some students at Peabody are interested in talking about your games in a couple 
 __We'll meet here from 3-4 on Monday. Please let me know if you are unable to make it.__
 
 
+## Playtesting Documentation Guidelines
+After each out-of-class playtesting session, you will need to provide documentation of testing. This should include a narrative summary describing the results of the testing (specifically, what you were testing, whether the results of testing met your expectations, and a description of your next actionable steps). 
+
+In addition to this narrative summary, please provide any of the following documentation:
+- Photo or video documentation of the playtesting session
+- Completed playtesting forms
+
+### What to turn in
+This documentation should be uploaded to a Google Drive folder, clearly labeled as “NAME OF GAME Playtesting MMDDYY”. Only one copy of this document needs to be shared per team.
+
+There is a Canvas Assignment for each playtest. Each team member will need to share the link to the Drive folder there.
+
+
+
 
 # Homework
 
