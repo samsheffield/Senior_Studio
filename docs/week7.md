@@ -37,3 +37,9 @@ Next week we'll be taking a look at the IA Seniors' thesis work and giving feedb
 ## Development
 
 Follow your schedules, delegate tasks, and get some work done. Next week will be a work session and check-in.
+
+
+## Jacob Clayman Talk this Thursday at 5pm (D200)
+Jake Clayman will be speaking about the professional path as an independent game developer and Game Producer at Kongregate.
+
+Aftwerwards, he will be available for one-on-one meetings with Game Design students until 8pm. There are still a few spaces left, so please contact Melanie if you are interested in setting up a meeting.
