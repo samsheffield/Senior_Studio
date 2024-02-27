@@ -28,8 +28,8 @@ This documentation should be uploaded to a Google Drive folder, clearly labeled 
 
 There is a Canvas Assignment for each playtest. Each team member will need to share the link to the Drive folder there.
 
-## Next week (afternoon): Give IA Seniors feedback 
-Next week we'll be taking a look at the IA Seniors' thesis work and giving feedback. Then, after Spring Break, they'll return the favor by playtesting your games!
+## Next week: Give IA Seniors feedback 
+Next week after our check-ins we'll be taking a look at the IA Seniors' thesis work and giving feedback. Then, after Spring Break, they'll return the favor by playtesting your games!
 
 
 # Homework
