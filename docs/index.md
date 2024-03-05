@@ -38,10 +38,10 @@ Week 6 (02/20):
   - [Playtesting week. Class visitor.](week6.md)
 
 Week 7 (02/27):
-  - [Check-ins, Work session, Exhibitions Class Visit](week7.md)
+  - [Check-ins, Work session, Exhibitions Class Visit.](week7.md)
 
 Week 8 (03/05):
-  - Project check-ins. Visit IA Senior class.
+  - [Project check-ins. Visit IA Senior class.](week8.md)
 
 Week 9 (03/12):
   - Spring Break
