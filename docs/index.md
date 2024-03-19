@@ -47,16 +47,16 @@ Week 9 (03/12):
   - Spring Break
 
 Week 10 (03/19):
-  - Playtesting week. IA Senior class visits us.
+  - [Playtesting week. IA Senior class visits us.](week10.md)
 
 Week 11 (03/26):
-  - SCHEDULING NOW
+  - Playtesting. Class visitor.
 
 Week 12 (04/02):
   - Playtesting week. Class visitor.
 
 Week 13 (04/09): 
-  - SCHEDULING NOW
+  - Work session
 
 Week 14 (04/16):
   - Playtesting week: Games are due for final in-class playtesting.
