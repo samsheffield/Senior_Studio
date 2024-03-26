@@ -50,7 +50,7 @@ Week 10 (03/19):
   - [Playtesting week. IA Senior class visits us.](week10.md)
 
 Week 11 (03/26):
-  - Playtesting. Class visitor.
+  - [Playtesting. Work Session.](week11.md)
 
 Week 12 (04/02):
   - Playtesting week. Class visitor.
